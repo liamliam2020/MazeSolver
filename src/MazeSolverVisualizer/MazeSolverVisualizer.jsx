@@ -10,10 +10,11 @@ export default class MazeSolverVisualizer extends Component {
 
   render() {
     return (
-      <div>
-        woof
-        <Node> </Node>
-      </div>
+      
+      //<div>
+       // bark
+        //<Node> </Node>
+      //</div>
     );
   }
 }
